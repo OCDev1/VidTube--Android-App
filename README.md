@@ -11,8 +11,7 @@ In order to run the Android app, start by cloning the repository to Android Stud
 After cloning the repository, open the project in Android Studio.
 (Note: if you are using a physical device, make sure to change the code, such that in every place that it says "10.0.2.2", change it to your IP address)
 
-Now clone the server using your IDE of choice, you can do this by opening the terminal and entering this command: `git clone https://github.com/OCDev1/VidTube-server.git` and make sure you are on a branch named: `"main-part4"` (this is the branch of the 4th part, the difference between the main branch and main-part4 branch is the insertData.js script that inserts data to the mongoDB, the script in main-part4 works for the android app (and the web app) so use it for this part, the script in the main branch won't work for the Android app!).
-Or download the repository to your computer.
+Now clone the server using your IDE of choice, you can do this by opening the terminal and entering this command: `git clone https://github.com/OCDev1/VidTube-server.git` Or download the repository to your computer.
 
 If you downloaded the repo-change the directory in your terminal to the downloaded repo directory. (if you cloned to your IDE then ignore this)
 
