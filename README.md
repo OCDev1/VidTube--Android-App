@@ -6,7 +6,7 @@ This Readme file contains an overview of the Android app and its features, along
 
 ## How To Run
 In order to run the Android app, start by cloning the repository to Android Studio, you can do this by opening the terminal and entering this command:
-`git clone https://github.com/eyalg43/project_android.git`, and move to branch `mainPart4`.
+`git clone https://github.com/eyalg43/project_android.git`.
 
 After cloning the repository, open the project in Android Studio.
 (Note: if you are using a physical device, make sure to change the code, such that in every place that it says "10.0.2.2", change it to your IP address)
